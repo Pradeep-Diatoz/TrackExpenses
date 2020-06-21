@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrackYourExpense</string>
+    <string name="amount">Debited:</string>
+</resources>
